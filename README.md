@@ -25,8 +25,8 @@ A gold coin is worth 10 cents
 - What is the minimum number of coins that equals 98 cents?
 
 It’s a hard question to answer in head. In this project I used **C#** to build a **Money Maker:** a program in which 
-- a user enters an amount and gets the minimum number of coins that equal that value.
-
+- A user enters an amount and gets the minimum number of coins that equal that value.
+<br>
 For example, 16 cents could be:
 
 16 bronze coins,
@@ -36,7 +36,7 @@ For example, 16 cents could be:
 
 <p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-c-sharp/data-types-variables/C%23_MoneyMaker_2.svg"/> </a> </p>
 
-<p align=center>We’d like the last option because it uses the fewest coins.</p>
+<p align=center><strong>We’d like the last option because it uses the fewest coins.</strong></p>
 
 
 👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/moneymaker.cs)
