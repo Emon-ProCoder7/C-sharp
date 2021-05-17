@@ -114,5 +114,26 @@ For this project, I have provided the story, but it will be up to user to comple
 
 
 
+<h1 align = 'center'>Exquisite Corpse </h1> 
+
+
+
+
+#### Project Goals
+
+In the game Exquisite Corpse, participants draw either a **head, body,** or **feet** of a **creature**. The players don’t know how their part of the body connects to the other two, until the drawing is finished and revealed.
+
+For this project, I have written a program that,
+- Mimics the Exquisite Corpse game. 
+- Players will be able to randomly combine different parts of ASCII characters so they create a new creature.
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/mimicFrankestine.cs)
+
+<br><br>
+
+
+
+
+
 
 
