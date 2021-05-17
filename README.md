@@ -50,6 +50,39 @@ For example, 16 cents could be:
 
 
 
+<h1 align = 'center'>Architect Arithmetic</h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-c-sharp/methods/teotihuacan-complete.svg"/> </a> </p>
+
+
+#### Project Goals
+
+Architects have big ideas – but big ideas can be expensive. How expensive? Depends on the size. …can be (approximately) broken into circles and rectangles. Let’s assume that tiles cost ₤180 each:
+
+```
+double tileCost = 180;
+double totalCost = totalArea * tileCost;
+```
+Although the floor plan isn’t exactly one circle and rectangle, this approximation is good enough for estimating costs. 
+
+- In this project, I have built a program that calculates the material cost for any architect’s floor plan. 
+
+
+
+
+
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/architect.cs)
+
+<br><br>
+
+
+
+
+
+
+
+
 
 
 
