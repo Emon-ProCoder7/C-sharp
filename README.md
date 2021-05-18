@@ -9,6 +9,46 @@
 
 
 
+
+<h1 align = 'center'>Automated Encryption Engine</h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-c-sharp/lists-and-loops/CaesarCipher-full-diagram.svg"/>                         <img width=330px src = "https://content.codecademy.com/courses/learn-c-sharp/lists-and-loops/CaesarCipher-key.svg"/> </a> </p>
+
+
+
+#### Project Goals
+
+By 6 a.m. on Sunday, A team’s project is nearly finished. The Object of Your Affection (the name’s a work in progress) is getting attention from other teams in the hackathon. With one day left, they’re getting desperate. To steal A team's project idea, their competitors have been reading their team’s emails!
+
+- Here I have written a **cipher: a tool to encrypt text**, making it unreadable to other teams. 
+- Here I've decided to implement the [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher), which was used by the **Roman Empire** to encode military secrets.
+
+<br>
+
+>Alphabet with letters arranged in a circle
+>Takes every letter of the message and shifts it three places to the right. 
+
+```
+For example, 
+    A becomes D, 
+    B becomes E, 
+    C becomes F, and 
+    “attack” becomes “dwwdfn”.
+```
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/encryption.cs)
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
 <h1 align = 'center'>Money Maker </h1> 
 
 
