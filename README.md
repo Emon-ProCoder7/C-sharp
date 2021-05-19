@@ -177,3 +177,37 @@ For this project, I have written a program that,
 
 
 
+*************
+
+
+
+
+
+<h1 align = 'center'>Social Network </h1> 
+
+
+
+
+#### Project Goals
+
+- As a part of social network application here is a project adding **Post creation functionality**.
+<br>
+As a user creates a post, the text "New post" will be automatically outputted so that then the user can add the text he/she wants to share.
+
+
+- Once the program runs, then in main, the program will take the text of the post from the user, 
+- create a post object, 
+- assign the taken value to the text field and output it.
+
+
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/socialnetwork.cs)
+
+<br><br>
+
+
+
+
+
+
+
