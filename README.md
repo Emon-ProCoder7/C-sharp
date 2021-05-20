@@ -172,7 +172,7 @@ For this project, I have written a program that,
 <br><br>
 
 
-
+<br><br><br><br><br><br><br><br><br>
 
 
 
@@ -180,7 +180,7 @@ For this project, I have written a program that,
 *************
 
 
-
+<br><br><br>
 
 
 <h1 align = 'center'>Social Network </h1> 
