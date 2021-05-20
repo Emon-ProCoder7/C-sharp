@@ -172,7 +172,7 @@ For this project, I have written a program that,
 <br><br>
 
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 
@@ -282,6 +282,46 @@ As a user creates a post, the text "New post" will be automatically outputted so
 
 
 👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/socialnetwork.cs)
+
+<br><br>
+
+
+
+
+
+
+<h1 align = 'center'>Robot-barman</h1> 
+
+
+
+
+#### Project Goals
+
+Robot-barman goal is to neatly arrange drinks on the shelves of the bar. He is very smart and takes as many drinks as are necessary to evenly distribute them on the shelves, but he still has some problems.
+
+The program installed in the robot takes the number of drinks and the number of the shelves as input.
+This program evenly distributes the drinks on shelves: by dividing the number of drinks by the number of shelves and outputting the result.
+
+The program also, handles those two possible problems:
+
+>1. the divider (the number of shelves) should never be zero
+>2. both inputs should be integers.
+
+For the first exception, the program outputs
+
+>"At least 1 shelf" and for the second, <br>
+>"Please insert an integer".
+
+```
+Sample Input
+6
+two
+
+Sample Output
+Please insert an integer
+```
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/robobarman.cs)
 
 <br><br>
 
