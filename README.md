@@ -211,3 +211,33 @@ As a user creates a post, the text "New post" will be automatically outputted so
 
 
 
+<h1 align = 'center'>Words </h1> 
+
+
+
+
+#### Project Goals
+
+The program defines an **array** with 10 words and takes a letter as input from User.
+
+- Here is a program to iterate through the array and output **words** containing the **taken letter**.
+- If there is no such word, the program outputs "No match".
+
+```
+Sample Input
+u
+
+Sample Output
+fun
+```
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/wordArray.cs)
+
+<br><br>
+
+
+
+
+
+
+
