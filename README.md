@@ -183,6 +183,55 @@ For this project, I have written a program that,
 <br><br><br>
 
 
+
+
+
+
+
+<h1 align = 'center'>Dance Competition</h1> 
+
+
+
+
+#### Project Goals
+
+In a ballroom dancing competition, each dancer from a pair is evaluated separately, and then their points are summed up to get the total pair score. The program takes the names and the points of each dancer as input and creates a DancerPoints objects for each dancer, using the taken name and score values as parameters for constructors.
+
+<br>
+
+Here I've used **Overload + operator** to return a new object where: 
+- The names of dancers are in one string and
+- The score is equal to the sum of their points.
+
+```
+Sample Input
+Dave
+8
+Jessica
+7
+
+Sample Output
+Dave & Jessica
+15
+```
+
+
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | csharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/C-sharp/blob/main/dance.cs)
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align = 'center'>Social Network </h1> 
 
 
